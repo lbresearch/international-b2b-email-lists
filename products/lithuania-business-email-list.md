@@ -1,0 +1,81 @@
+# Lithuania Business Email List
+
+> **7,000 verified contacts available.** Get the full Lithuania Business Email List at **[LeadsBlue](https://leadsblue.com/leads/lithuania-business-email-leads-database/)**.
+
+A data-backed overview of the **Lithuania Business Email List** — audience size, email engagement benchmarks, optimal send timing, and compliance notes for outreach.
+
+## Key figures
+
+| Metric | Value |
+|---|---|
+| Verified contacts | **7,000** |
+| Segment | business email list |
+| Geography | Lithuania |
+| Cold email open rate | 16–24% |
+| Cold email reply rate | 3–6% |
+| Best send days | Tuesday, Wednesday, Thursday |
+| Best send time | 09:00-11:00 EET |
+| License | CC BY 4.0 |
+
+## Market overview
+
+With 7,000 verified contacts, the Lithuania Business Email List is one of LeadsBlue's business email list datasets for Lithuania. Lithuania is the largest and fastest-growing of the Baltic states, with a rapidly expanding fintech sector that has made Vilnius one of Europe's leading fintech hubs. Over 100 fintech licences have been issued to companies using Vilnius as their EU regulatory gateway. Kaunas is Lithuania's 2nd city and a manufacturing and logistics hub.
+
+**Key business hubs:** Vilnius (fintech hub), Kaunas, Klaipėda (port).
+
+## Outreach strategy
+
+Lithuanian B2B cold email in English works well, particularly for the fintech and technology sectors which are internationally oriented by design. Lithuanian-language outreach shows cultural awareness for domestically-focused companies.
+
+## Compliance
+
+Lithuania follows GDPR, enforced by the State Data Protection Inspectorate. Legitimate interest applies for B2B cold email where professionally relevant.
+
+## Cold email benchmarks by industry
+
+Engagement varies by the recipient's industry. Benchmark open and reply rate ranges from the LeadsBlue study:
+
+| Industry | Open rate | Reply rate |
+|---|---|---|
+| Technology & Software | 22-31% | 3.5-6.5% |
+| Healthcare & Medical | 18-26% | 2.0-4.5% |
+| Manufacturing & Engineering | 16-23% | 1.8-3.5% |
+| Finance & Banking | 15-22% | 1.5-3.2% |
+| Professional Services | 20-28% | 2.5-5.0% |
+| Real Estate | 18-26% | 2-6% |
+| Construction & Real Estate | 17-24% | 2.0-3.8% |
+| Legal | 19-27% | 2.2-4.5% |
+| E-commerce | 24-33% | 3.5-6.5% |
+| Oil & Energy | 14-20% | 2-4% |
+
+## How to use this list effectively
+
+- **Verify before sending.** B2B contact data decays roughly 2–3% per month as people change roles. Run the list through a verification pass to remove stale or invalid addresses before your first send.
+- **Segment by industry and role.** Response rates improve sharply when the message matches the recipient's vertical and seniority — use the segment fields to tailor your copy rather than sending one generic message.
+- **Warm up the sending domain.** Start with low daily volume from a dedicated sending domain and ramp gradually to protect deliverability.
+- **Follow a multi-touch cadence.** Most replies come from the 2nd–4th touch; a short sequence over 2–3 weeks outperforms a single send.
+- **Respect compliance.** Include a valid postal address and a working opt-out, and honour unsubscribe requests promptly (see compliance notes above).
+
+## Frequently asked questions
+
+**How many contacts are in the Lithuania Business Email List?**  
+The list contains 7,000 verified contacts.
+
+**What format is the data delivered in?**  
+LeadsBlue databases are delivered as downloadable spreadsheet files (CSV/Excel) with standard contact fields, ready to import into any CRM or email platform.
+
+**Is cold email to this list legal?**  
+Lithuania follows GDPR, enforced by the State Data Protection Inspectorate. See the compliance section above for details.
+
+**What's a realistic open rate?**  
+Benchmark open rates for this market run 16–24%, with reply rates of 3–6%, depending on industry, targeting, and copy quality.
+
+## Get the full dataset
+
+The complete, verified **Lithuania Business Email List** — with individual contact records ready for outreach — is available from LeadsBlue:
+
+**→ [Lithuania Business Email List on LeadsBlue](https://leadsblue.com/leads/lithuania-business-email-leads-database/)**
+
+## Source & citation
+
+Benchmark data: LeadsBlue Research, *B2B Cold Email Benchmark Report 2026* (doi:[10.5281/zenodo.20136256](https://zenodo.org/records/20136256), CC BY 4.0). Author: Luther Johnson (ORCID 0009-0008-9836-1280).
